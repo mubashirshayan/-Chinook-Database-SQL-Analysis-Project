@@ -6,11 +6,12 @@ The analysis focuses on practicing **SQL joins, aggregations, grouping, filterin
 ---
 
 ## 📂 Project Files
-
-```
-chinook.db              # SQLite database file
-SQL_Tablejoin.ipynb     # Jupyter Notebook with SQL queries and analysis
-README.md               # Project documentation
+Chinook-Database-SQL-Analysis-Project/
+├─ README.md
+├─ Data/
+│ ├─ chinook_schema.png
+│ ├─ chinook.db
+│ └─ Chinook_Database_–_SQL_Analysis.ipynb
 ```
 
 ---

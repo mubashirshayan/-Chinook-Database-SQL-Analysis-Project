@@ -12,7 +12,7 @@ Chinook-Database-SQL-Analysis-Project/
 │ ├─ chinook_schema.png
 │ ├─ chinook.db
 │ └─ Chinook_Database_–_SQL_Analysis.ipynb
-```
+
 
 ---
 ![Schema](https://github.com/mubashirshayan/-Chinook-Database-SQL-Analysis-Project/blob/main/Data/chinook_schema.png)
